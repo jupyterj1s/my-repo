@@ -2,5 +2,5 @@
 
 welcome to my repo! 
 
-1 - dont foreget to check this out
-2 - blabla
+1. dont foreget to check this out
+2. blabla
